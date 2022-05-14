@@ -1,0 +1,4 @@
+#可以多创建几个yml文件，修改此处，切换环境
+spring:
+  profiles:
+    active: ipv4
