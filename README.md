@@ -6,9 +6,9 @@
 
 #### 基本信息
 
-后端代码地址：https://github.com/lugf027org/Law_Help-Server
+后端代码地址：https://github.com/Leolty/Law_Help-Server
 
-前端代码地址：https://github.com/lugf027org/Law_Help-MP
+前端代码地址：https://github.com/Leolty/Law_Help-MP
 
 需要的软件：
 
